@@ -1,5 +1,6 @@
 \# Milestone 0 - Environment \& CI Setup
 
+[![CI](https://github.com/surekhajanapareddy/ids568-mlops-m0/actions/workflows/ci.yml/badge.svg)](https://github.com/surekhajanapareddy/ids568-mlops-m0/actions/workflows/ci.yml)
 
 
 \## Setup (Windows)
