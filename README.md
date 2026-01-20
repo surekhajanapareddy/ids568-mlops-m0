@@ -9,20 +9,41 @@
 
 \## Setup (Windows)
 
+\## 1. Create virtual environment
+
 ```powershell
 
 py -m venv .venv
 
+```
+\## 2. Activate virtual environment
+
+```powershell
+
 .\\.venv\\Scripts\\Activate.ps1
+
+```
+\## 3. Upgrade pip within the virtual environment
+
+```powershell
 
 python -m pip install --upgrade pip
 
+```
+\## 4. Install all project dependencies 
+
+```powershell
+
 pip install -r requirements.txt
+
+```
+\## 5. Smoke test to verify the environment setup 
+
+```powershell
 
 pytest -v
 
 ```
-
 
 
 \## Reproducibility and Environment Setup
