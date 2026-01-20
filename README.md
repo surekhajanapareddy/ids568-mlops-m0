@@ -5,6 +5,7 @@
 
 \[!\[CI](https://github.com/surekhajanapareddy/ids568-mlops-m0/actions/workflows/ci.yml/badge.svg)](https://github.com/surekhajanapareddy/ids568-mlops-m0/actions/workflows/ci.yml)
 
+**Python version:** 3.11
 
 
 \## Setup (Windows)
